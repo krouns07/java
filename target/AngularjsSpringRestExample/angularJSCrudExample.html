@@ -31,11 +31,11 @@
                 if ($scope.countryForm.id == -1) {
                     //Id is absent in form data, it is create new country operation
                     method = "POST";
-                    url = '/AngularjsSpringRestExample/countries';
+                    url = '/countries';
                 } else {
                     //Id is present in form data, it is edit country operation
                     method = "PUT";
-                    url = '/AngularjsSpringRestExample/countries';
+                    url = '/countries';
                 }
 
                 $http({
@@ -52,7 +52,7 @@
             $scope.deleteCountry = function (country) {
                 $http({
                     method: 'DELETE',
-                    url: '/AngularjsSpringRestExample/country/' + country.id
+                    url: '/country/' + country.id
                 }).then(_success, _error);
             };
 
@@ -69,7 +69,7 @@
             function _refreshCountryData() {
                 $http({
                     method: 'GET',
-                    url: 'http://localhost:8080/AngularjsSpringRestExample/countries'
+                    url: 'http://localhost:8080/countries'
                 }).then(function successCallback(response) {
                     $scope.countries = response.data;
                 }, function errorCallback(response) {
