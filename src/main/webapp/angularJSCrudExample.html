@@ -69,7 +69,7 @@
             function _refreshCountryData() {
                 $http({
                     method: 'GET',
-                    url: 'http://krouns07.github.io/countries'
+                    url: 'http://krouns07.github.io/java/countries'
                 }).then(function successCallback(response) {
                     $scope.countries = response.data;
                 }, function errorCallback(response) {
