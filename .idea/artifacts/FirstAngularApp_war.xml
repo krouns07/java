@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FirstAngularApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="AngularjsSpringRestExample.war">
+      <element id="artifact" artifact-name="FirstAngularApp:war exploded" />
+    </root>
+  </artifact>
+</component>
