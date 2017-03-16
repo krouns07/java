@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17304ea6-298b-4bc9-8b11-ebf730d8e4a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample.war" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FirstAngularApp.iml" afterPath="$PROJECT_DIR$/FirstAngularApp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/angularJSCrudExample.html" afterPath="$PROJECT_DIR$/src/main/webapp/angularJSCrudExample.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/classes/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/classes/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/AngularjsSpringRestExample/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/classes/main/webapp/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,8 +66,8 @@
       <file leaf-file-name="angularJSCrudExample.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/angularJSCrudExample.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="71" column="51" lean-forward="false" selection-start-line="71" selection-start-column="51" selection-end-line="71" selection-end-column="51" />
+            <state relative-caret-position="210">
+              <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -980,12 +972,12 @@
       <option name="presentableId" value="Default" />
       <updated>1489308701290</updated>
       <workItem from="1489308705267" duration="12383000" />
-      <workItem from="1489658759583" duration="5887000" />
+      <workItem from="1489658759583" duration="6094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18270000" />
+    <option name="totallyTimeSpent" value="18477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1535" height="876" extended-state="6" />
@@ -1184,8 +1176,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/angularJSCrudExample.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="71" column="51" lean-forward="false" selection-start-line="71" selection-start-column="51" selection-end-line="71" selection-end-column="51" />
+        <state relative-caret-position="210">
+          <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="66" />
           <folding />
         </state>
       </provider>
